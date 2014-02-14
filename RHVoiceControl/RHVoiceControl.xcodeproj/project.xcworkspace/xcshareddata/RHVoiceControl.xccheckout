@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5FCE94D3-5103-4669-9B52-7EF7D4A900A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RHVoiceControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6A67035-44C7-4FC6-A614-4CA6DE724B3E</key>
+		<string>https://github.com/rathahin/RHVoiceControl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RHVoiceControl/RHVoiceControl.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6A67035-44C7-4FC6-A614-4CA6DE724B3E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rathahin/RHVoiceControl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6A67035-44C7-4FC6-A614-4CA6DE724B3E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6A67035-44C7-4FC6-A614-4CA6DE724B3E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RHVoiceControl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
